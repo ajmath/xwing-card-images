@@ -8,7 +8,7 @@ There are two top-level directories: `images` and `util`.
 
 ### images
 
-The `images` folder contains images for each card. Pilot cards are defi
+The `images` folder contains images for each card. Pilot cards are divided by faction (imperial, rebels, scum) then ship type. Upgrades are divided by upgrade type.
 
 ### util
 
