@@ -18,10 +18,17 @@ $is_recursive = !empty( $argv[1] ) && in_array( $argv[1], [ '-r', '--recursive' 
 function canonicalize( $name )
 {
 	$special_cases =  [
+		
+		// xws
 		'Astromech Droid' => 'amd',
 		'Elite Pilot Talent' => 'ept',
 		'Modification' => 'mod',
-		'Salvaged Astromech Droid' => 'samd'
+		'Salvaged Astromech Droid' => 'samd',
+		
+		// xwing data
+		'Astromech' => 'amd',
+		'Elite' => 'ept',
+		'Salvaged Astromech' => 'samd'
 	];
 
 	if( array_key_exists( $name, $special_cases ) )
