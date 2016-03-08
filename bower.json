@@ -1,7 +1,7 @@
 {
   "name": "X-Wing Card Images",
   "homepage": "https://github.com/voidstate/xwing-card-images",
-  "version": "v0.1.1",
+  "version": "v0.1.2",
   "authors": [
     "fergus hadley <ferg@voidstate.com>"
   ],
@@ -9,14 +9,11 @@
   "main": "",
   "moduleType": [],
   "keywords": [
-    "x-wing"
+    "x-wing",
+    "miniatures"
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "**/.*"
   ]
 }
