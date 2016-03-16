@@ -1,9 +1,9 @@
 {
   "name": "X-Wing Card Images",
   "homepage": "https://github.com/voidstate/xwing-card-images",
-  "version": "v0.1.4",
+  "version": "v0.1.5”,
   "authors": [
-    "fergus hadley <ferg@voidstate.com>"
+    “Fergus Hadley <ferg@voidstate.com>"
   ],
   "description": "A collection of all game cards for use in the X-Wing Miniatures Game",
   "main": "",
