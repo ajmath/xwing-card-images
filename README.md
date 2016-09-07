@@ -14,7 +14,7 @@ Cards are named according to the [XWS specification](https://github.com/elisteve
 
 ### util
 
-The `util` folder scripts and utilities to help manage the cards.
+The `util` folder holds scripts and utilities to help manage the cards and repo.
 
 ## Usage
 
@@ -49,7 +49,7 @@ Want your project listed here? [Let us know!](https://github.com/voidstate/xwing
 ## Versioning
 
 This project uses [SemVer](http://semver.org/). Given a `MAJOR.MINOR.PATCH` version number, we will increment the:
-- `MAJOR` version when existing content is changed in such a way that it can break consumers of the data. *Used if 
+- `MAJOR` version when existing content is changed in such a way that it can break consumers of the data. *Used if the XWS format changes in a breaking manner*
 - `MINOR` version when new content is added in a backwards-compatible manner, or existing content is changed in a backwards-compatible manner. *Used for adding new cards.*
 - `PATCH` version when fixing mistakes in existing content. *Used for replacing cards with better quality versions of the image.*
 
