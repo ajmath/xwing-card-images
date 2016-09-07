@@ -10,6 +10,8 @@ There are two top-level directories: `images` and `util`.
 
 The `images` folder contains images for each card. Pilot cards are divided by faction (imperial, rebels, scum) then ship type. Upgrades are divided by upgrade type.
 
+Cards are named according to the [XWS specification](https://github.com/elistevens/xws-spec) that provides rules for naming X-Wing Miniatures Game cards in an application-neutral manner.
+
 ### util
 
 The `util` folder scripts and utilities to help manage the cards.
@@ -47,9 +49,9 @@ Want your project listed here? [Let us know!](https://github.com/voidstate/xwing
 ## Versioning
 
 This project uses [SemVer](http://semver.org/). Given a `MAJOR.MINOR.PATCH` version number, we will increment the:
-- `MAJOR` version when existing content is changed in such a way that it can break consumers of the data
-- `MINOR` version when new content is added in a backwards-compatible manner, or existing content is changed in a backwards-compatible manner
-- `PATCH` version when fixing mistakes in existing content
+- `MAJOR` version when existing content is changed in such a way that it can break consumers of the data. *Used if 
+- `MINOR` version when new content is added in a backwards-compatible manner, or existing content is changed in a backwards-compatible manner. *Used for adding new cards.*
+- `PATCH` version when fixing mistakes in existing content. *Used for replacing cards with better quality versions of the image.*
 
 ## History
 
