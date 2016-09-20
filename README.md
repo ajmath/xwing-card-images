@@ -60,6 +60,7 @@ See the [Releases tab](https://github.com/voidstate/xwing-card-images/releases) 
 ## Contributors
 
 - Voidstate (ferg@voidstate.com)
+- Andrew Matheny (https://github.com/ajmath)
 
 Initially forked from [guidokessels/xwing-data](https://github.com/guidokessels/xwing-data).
 
